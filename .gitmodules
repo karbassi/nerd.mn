@@ -1,0 +1,3 @@
+[submodule "owc-stats"]
+	path = owc-stats
+	url = git@github.com:karbassi/Overnight-Website-Challenge-Stats.git
